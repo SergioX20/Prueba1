@@ -1,0 +1,7 @@
+name: GameAPI
+main: mainPacket.mainClass
+version: 1.0
+author: SergioX20
+commands:
+    hologram:
+        description: Comandos del juego, solo admins!
